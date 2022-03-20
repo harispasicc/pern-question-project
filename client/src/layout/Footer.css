@@ -1,0 +1,9 @@
+.footer {
+  position: fixed;
+  height: 5vh;
+  bottom: 0;
+  width: 100vw;
+}
+.link {
+  text-decoration: none;
+}
